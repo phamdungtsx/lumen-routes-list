@@ -1,0 +1,25 @@
+{
+    "name": "phamdungtsx/lumen-routes-list",
+    "license": "MIT",
+    "description": "Display the route list of Lumen",
+    "keywords": [
+        "lumen",
+        "route list"
+    ],
+    "authors": [
+        {
+            "name": "Phamdungtsx"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0||^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phamdungtsx\\LumenRoutesList\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
